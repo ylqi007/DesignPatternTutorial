@@ -16,7 +16,6 @@ public class SingletonType8 {
         System.out.println("instance2.hashCode()=" + instance2.hashCode());
 
         instance1.sayOK();
-        Runtime
     }
 }
 
