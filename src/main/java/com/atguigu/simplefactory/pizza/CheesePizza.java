@@ -1,4 +1,4 @@
-package com.atguigu.factory.pizza;
+package com.atguigu.simplefactory.pizza;
 
 public class CheesePizza extends Pizza {
     @Override

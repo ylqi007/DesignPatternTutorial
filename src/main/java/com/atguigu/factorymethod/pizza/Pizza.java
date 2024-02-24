@@ -1,4 +1,4 @@
-package com.atguigu.factory.pizza;
+package com.atguigu.factorymethod.pizza;
 
 public abstract class Pizza {
     protected String name;

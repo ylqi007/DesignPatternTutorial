@@ -1,9 +1,9 @@
-package com.atguigu.factory.order;
+package com.atguigu.simplefactory.order;
 
-import com.atguigu.factory.pizza.CheesePizza;
-import com.atguigu.factory.pizza.GreekPizza;
-import com.atguigu.factory.pizza.PepperPizza;
-import com.atguigu.factory.pizza.Pizza;
+import com.atguigu.simplefactory.pizza.CheesePizza;
+import com.atguigu.simplefactory.pizza.GreekPizza;
+import com.atguigu.simplefactory.pizza.PepperPizza;
+import com.atguigu.simplefactory.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

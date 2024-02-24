@@ -1,4 +1,4 @@
-package com.atguigu.factory.order;
+package com.atguigu.simplefactory.order;
 
 // 相当于一个客户端，发出订购
 public class PizzaStore {

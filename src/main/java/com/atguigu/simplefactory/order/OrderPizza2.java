@@ -1,29 +1,21 @@
-package com.atguigu.factory.order;
+package com.atguigu.simplefactory.order;
 
-import com.atguigu.factory.pizza.Pizza;
+import com.atguigu.simplefactory.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class OrderPizza1 {
-    // 定义一个简单工厂
-    private SimpleFactory simpleFactory;
+public class OrderPizza2 {
 
-    // 构造器
-    public OrderPizza1(SimpleFactory simpleFactory) {
-        setFactory(simpleFactory);
-    }
+    Pizza pizza = null;
 
-    public void setFactory(SimpleFactory simpleFactory) {
-        this.simpleFactory = simpleFactory;
-    }
+    public OrderPizza2() {}
 
     public Pizza getPizza() {
-        Pizza pizza = null;
         do {
             String orderType = getPizzaType();
-            pizza = this.simpleFactory.createPizza(orderType);
+            pizza = SimpleFactory.createPizza2(orderType);
             if(pizza != null) {
                 pizza.prepare();
                 pizza.bake();
@@ -48,5 +40,4 @@ public class OrderPizza1 {
             return null;
         }
     }
-
 }
