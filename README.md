@@ -3,3 +3,7 @@
 
 1. [单例模式](docs/01.Singleton.单例模式.md)
 2. [简单工厂模式](docs/02.SimpleFactory.简单工厂模式.md)
+
+
+**Reference**
+* Youtube: 尚硅谷 设计模式 韩顺平
