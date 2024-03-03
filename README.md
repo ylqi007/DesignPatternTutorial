@@ -10,6 +10,9 @@
 3. [原型模式 Prototype Patter](docs/03.Prototype.原型模式.md)
 4. [构造者模式 Builder Pattern](docs/04.BuilderPattern.建造者模式.md)
 5. [代理模式 Proxy Pattern](docs/05.ProxyPattern.代理模式.md)
+   1. 静态代理
+   2. 动态代理(JDK代理)
+   3. Cglib代理
 
 **Reference**
 * Youtube: 尚硅谷 设计模式 韩顺平
