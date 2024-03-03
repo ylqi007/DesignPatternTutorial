@@ -18,3 +18,4 @@
 * Youtube: 尚硅谷 设计模式 韩顺平
 * [尚硅谷_韩顺平_图解Java设计模式](docs/尚硅谷_韩顺平_图解Java设计模式.pdf)
 * [尚硅谷_韩顺平_图解Java设计模式_课件](docs/尚硅谷_韩顺平_图解Java设计模式_课件.pdf)
+* [设计模式知识体系详解(pdai)](https://pdai.tech/md/dev-spec/pattern/1_overview.html)
