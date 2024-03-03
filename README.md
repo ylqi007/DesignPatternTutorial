@@ -7,9 +7,11 @@
    1. **工厂方法模式**
    2. **抽象工厂模式**
    3. 简单工厂模式 (不在GOF23中设计模式之中，但是应用广泛)
-3. [原型模式](docs/03.Prototype.原型模式.md)
+3. [原型模式 Prototype Patter](docs/03.Prototype.原型模式.md)
 4. [构造者模式 Builder Pattern](docs/04.BuilderPattern.建造者模式.md)
-
+5. [代理模式 Proxy Pattern](docs/05.ProxyPattern.代理模式.md)
 
 **Reference**
 * Youtube: 尚硅谷 设计模式 韩顺平
+* [尚硅谷_韩顺平_图解Java设计模式](docs/尚硅谷_韩顺平_图解Java设计模式.pdf)
+* [尚硅谷_韩顺平_图解Java设计模式_课件](docs/尚硅谷_韩顺平_图解Java设计模式_课件.pdf)
