@@ -9,7 +9,9 @@
    3. 简单工厂模式 (不在GOF23中设计模式之中，但是应用广泛)
 3. [原型模式 Prototype Patter](docs/03.Prototype.原型模式.md)
 4. [构造者模式 Builder Pattern](docs/04.BuilderPattern.建造者模式.md)
-5. [代理模式 Proxy Pattern](docs/05.ProxyPattern.代理模式.md)
+
+### 2. 结构型
+1. [代理模式 Proxy Pattern](docs/05.ProxyPattern.代理模式.md)
    1. 静态代理
    2. 动态代理(JDK代理)
    3. Cglib代理
