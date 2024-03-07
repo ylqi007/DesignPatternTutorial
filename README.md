@@ -49,6 +49,8 @@
 * [尚硅谷_韩顺平_图解Java设计模式_课件](docs/尚硅谷_韩顺平_图解Java设计模式_课件.pdf)
 * [设计模式知识体系详解(pdai)](https://pdai.tech/md/dev-spec/pattern/1_overview.html)
 * [永不磨灭的设计模式](https://shusheng007.top/2021/09/07/design-pattern/)
+* [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns)
+* [稀土掘金-小旋锋](https://juejin.cn/user/3896324938269278/posts)
 
 ## 附件: 23种设计模式彩图
 ![](docs/images/附件.23种设计模式彩图.png)
