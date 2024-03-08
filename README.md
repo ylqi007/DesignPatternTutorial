@@ -39,7 +39,7 @@
 7. 观察者模式, Observer
 8. 策略模式, Strategy
 9. 状态模式, State
-10. 模板方法模式, Template method
+10. [模板方法模式(Template method pattern)](docs/07.TemplateMethodPattern.模板方法模式.md)
 11. 访问者模式, Visitor
 
 
@@ -51,6 +51,8 @@
 * [永不磨灭的设计模式](https://shusheng007.top/2021/09/07/design-pattern/)
 * [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns)
 * [稀土掘金-小旋锋](https://juejin.cn/user/3896324938269278/posts)
+* [Source Making: Design Patterns](https://sourcemaking.com/design_patterns)
+
 
 ## 附件: 23种设计模式彩图
 ![](docs/images/附件.23种设计模式彩图.png)
