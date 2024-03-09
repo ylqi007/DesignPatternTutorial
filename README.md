@@ -20,7 +20,7 @@
 2. 桥接模式, Bridge
 3. 组合模式, Composite
 4. [装饰者模式 Decorator Patter](docs/06.DecoratorPattern.装饰者模式.md)
-5. 外观模式, Facade
+5. [外观模式, Facade](docs/08.FacadePattern.外观模式.md)
 6. 享元模式, Flyweight
 7. [代理模式 Proxy Pattern](docs/05.ProxyPattern.代理模式.md)
    1. 静态代理
@@ -52,6 +52,7 @@
 * [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns)
 * [稀土掘金-小旋锋](https://juejin.cn/user/3896324938269278/posts)
 * [Source Making: Design Patterns](https://sourcemaking.com/design_patterns)
+* [设计模式 建议的 学习顺序](https://www.cnblogs.com/schips/p/12312385.html)
 
 
 ## 附件: 23种设计模式彩图
