@@ -37,7 +37,7 @@
 5. 中介者模式, Mediator
 6. 备忘录模式, Memento
 7. 观察者模式, Observer
-8. 策略模式, Strategy
+8. [策略模式(Strategy Pattern)](docs/09.StrategyPattern.策略模式.md)
 9. 状态模式, State
 10. [模板方法模式(Template method pattern)](docs/07.TemplateMethodPattern.模板方法模式.md)
 11. 访问者模式, Visitor
@@ -53,6 +53,7 @@
 * [稀土掘金-小旋锋](https://juejin.cn/user/3896324938269278/posts)
 * [Source Making: Design Patterns](https://sourcemaking.com/design_patterns)
 * [设计模式 建议的 学习顺序](https://www.cnblogs.com/schips/p/12312385.html)
+* [Important Java Design Patterns You Need to Know About](https://www.edureka.co/blog/java-design-patterns/)
 
 
 ## 附件: 23种设计模式彩图
