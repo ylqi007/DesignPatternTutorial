@@ -6,9 +6,13 @@
 主要解决如何灵活创建对象或者类的问题，共5个。
 1. [单例模式, Singleton Pattern](docs/01.Singleton.单例模式.md)
 2. [工厂方法模式, Factory Method Pattern](docs/02.FactoryMethod.工厂模式.md)
-   1. **工厂方法模式**
-   2. **抽象工厂模式**
-   3. 简单工厂模式 (不在GOF23中设计模式之中，但是应用广泛)
+   1. 简单工厂模式 (也叫静态工厂方法模式，不在GOF23中设计模式之中，但是应用广泛)
+      1. `src/main/java/com/ylqi007/simplefactory/order/OrderPizza.java`: 没有使用工厂模式
+      2. `src/main/java/com/ylqi007/simplefactory/order/OrderPizza1.java`: 将 `SimpleFactory` 作为构造器参数传入构造器
+      3. `src/main/java/com/ylqi007/simplefactory/order/OrderPizza2.java`: 使用 `SimpleFactory` 的静态方法，不需要作为构造器参数传入。
+   2. **工厂方法模式**: 把对象的实例化推迟到子类中。
+   3. **抽象工厂模式**
+   4. 工厂模式在 JDK 中的应用
 3. [抽象工厂模式, Abstract Factory Pattern]()
 4. [原型模式, Prototype Patter](docs/03.Prototype.原型模式.md)
 5. [构造者模式, Builder Pattern](docs/04.BuilderPattern.建造者模式.md)
@@ -54,6 +58,7 @@
 * [Source Making: Design Patterns](https://sourcemaking.com/design_patterns)
 * [设计模式 建议的 学习顺序](https://www.cnblogs.com/schips/p/12312385.html)
 * [Important Java Design Patterns You Need to Know About](https://www.edureka.co/blog/java-design-patterns/)
+* https://github.com/mxg133/learnforJava_DesignPattern/tree/master
 
 
 ## 附件: 23种设计模式彩图
